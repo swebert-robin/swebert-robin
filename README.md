@@ -13,7 +13,6 @@
 <details>
   <summary></summary>
   <br />
-
   <p align="center">
     <img
       src="https://github-readme-stats.vercel.app/api?username=swebert-robin&show_icons=true&theme=chartreuse-dark&count_private=true&hide=stars&hide_rank=true&custom_title=glitch%20in%20the%20matrix..."
