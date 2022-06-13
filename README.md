@@ -1,6 +1,6 @@
 <a
   href="https://correa.swebert.xyz"
-  alt="Personal website of Swebert Correa"
+  alt="Personal website of Swebert Correa."
   target="_blank"
   rel="author">
   <img
